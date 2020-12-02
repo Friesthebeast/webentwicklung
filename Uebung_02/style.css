@@ -1,0 +1,10 @@
+.submenu {
+    list-style-type: none;
+    padding-inline-start: 20px;
+}
+
+.nav-link{
+    border-style: solid;
+    border-color: dimgray;
+    border-width: thin;
+}
